@@ -1,14 +1,5 @@
 # B2B-AI-Mockup-Automation-System
 
-<div>
-    <a href="https://www.loom.com/share/120d2842c41b4cd1899919b1fe9ae226">
-      <p>B2B-AI-Mockup-Automation-System - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/120d2842c41b4cd1899919b1fe9ae226">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/120d2842c41b4cd1899919b1fe9ae226-359e3e67393c4536-full-play.gif">
-    </a>
-  </div>
-
 ## ⚡️ What It Does
 
 Fully automates payments, submissions, tracking and notifications for AI-powered SaaS product that delivers before/after mockups for service-based businesses (landscapers, painters, roofers, contractors, etc.)—so you only have to run one manual step (generate the image in ChatGPT’s Sora).
